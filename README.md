@@ -1,2 +1,2 @@
 # VScode-settings-sync-Token
-VScode-settings-sync-Token
+vscode-settings-sync-Token backups
